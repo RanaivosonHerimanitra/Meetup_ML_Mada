@@ -10,3 +10,7 @@ My first meet up presentation talking about Machine Learning in Madagascar
 ## Reproducing demo
 * Install [Jupyter notebook] (http://jupyter.org/)
 * Install the [R kernel] (https://github.com/IRkernel/IRkernel)
+
+## Running jupyter notebook
+
+` jupyter notebook`
