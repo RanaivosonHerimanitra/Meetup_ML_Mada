@@ -60,7 +60,7 @@ Example of an Unsupervised ML
 ========================================================
 
 
-[Species classification using kmeans clustering ](http://localhost:8888/notebooks/Python_BioinfoCourse/MLdemos_meetup.ipynb)
+[Species classification using kmeans clustering ](MLdemos_meetup.ipynb)
 
 
 
